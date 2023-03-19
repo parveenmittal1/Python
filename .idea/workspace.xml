@@ -19,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TEST.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,6 +50,10 @@
       <workItem from="1671135442056" duration="966000" />
       <workItem from="1673325626540" duration="1824000" />
       <workItem from="1674371072575" duration="16000" />
+      <workItem from="1675910422633" duration="626000" />
+      <workItem from="1676225056309" duration="596000" />
+      <workItem from="1679159852264" duration="63000" />
+      <workItem from="1679160011785" duration="201000" />
     </task>
     <servers />
   </component>
